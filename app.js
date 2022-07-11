@@ -1,10 +1,9 @@
-
- const title = document.querySelectorAll('#titles').value
- const comp = document.querySelectorAll('#company').value
- const role = document.querySelectorAll('#role').value
- const degree = document.querySelectorAll('#degree').value
- const loc = document.querySelectorAll('#loc').value
- const links = document.querySelectorAll('#link').value
+ const title = document.getElementById('titles').value
+ const comp = document.getElementById('company').value
+ const role = document.getElementById('role').value
+ const degree = document.getElementById('degree').value
+ const loc = document.getElementById('loc').value
+ const links = document.getElementById('links').value
 
 
  const result = document.querySelector('.result')
