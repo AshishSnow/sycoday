@@ -30,7 +30,7 @@ const sol = `<p style="text-align: left;"><span style="font-family: Righteous; f
 <p><script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1874315412689682" crossorigin="anonymous"></script> <!-- super syco latest --> <ins class="adsbygoogle" style="display: block;" data-ad-client="ca-pub-1874315412689682" data-ad-slot="8371587063" data-ad-format="auto" data-full-width-responsive="true"></ins> <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script></p>
-<p style="text-align: center; font-size: 160%;">Apply Now- <u><a href="${links}" target="_blank" rel="noopener">Click Here</a></U></p>
+<p style="text-align: center;">Apply Now- <u><a href="${links}" target="_blank" rel="noopener">Click Here</a></U></p>
 <p><script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1874315412689682" crossorigin="anonymous"></script> <!-- super syco latest --> <ins class="adsbygoogle" style="display: block;" data-ad-client="ca-pub-1874315412689682" data-ad-slot="8371587063" data-ad-format="auto" data-full-width-responsive="true"></ins> <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script></p>
