@@ -181,7 +181,6 @@ result.innerText = sol;
  
 }
 
-res();
 
 const refresh =()=>{
 window.location.reload(false)
