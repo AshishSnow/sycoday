@@ -1,0 +1,73 @@
+.buttons{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 2rem;
+    
+    color: white;
+   
+}
+
+.v{
+
+   
+    color: aliceblue;
+}
+
+input{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.box{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+
+  background-color: black;
+    justify-content: center;
+    padding: 2rem;
+    justify-content: center;
+
+}
+#titles{
+
+   
+    width: 350px;
+    height: 30px;
+    display: flex;
+    margin: 1rem;
+    display: flex;
+}
+
+#company{
+    width: 150px;
+    display: flex;
+    margin: 1rem;
+    display: flex;
+}
+
+
+#role{
+    width: 150px;
+    display: flex;
+    margin: 1rem;
+    display: flex;
+}
+
+
+#degree{
+    width: 150px;
+    display: flex;
+    margin: 1rem;
+    display: flex;
+}
+
+#loc{
+    width: 150px;
+    display: flex;
+    margin: 1rem;
+    display: flex;
+}
