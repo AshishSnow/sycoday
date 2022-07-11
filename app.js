@@ -6,9 +6,6 @@
  const loc = document.querySelector('#loc').value
  const links = document.querySelector('#link').value
 
-//  const ref = document.getElementById('ref');
-//  const copy = document.getElementById('copy');
-
 
  const result = document.querySelector('.result')
 
@@ -181,11 +178,8 @@ LOCATION: ${loc}
 
 APPLY NOW: `
 
-   
-    result.innerText = sol;
-  
-
-
+result.innerText = sol;
+ 
 }
 
 res();
