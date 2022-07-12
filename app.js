@@ -13,10 +13,10 @@ const res =()=>{
 
    
 
-const sol = `<p style="text-align: left;"><span style="font-family: Righteous; font-size: 12px;"><button class="btn btn-primary btn-sm" type="button">COMPANY</button> ${comp}</span></p>
-<p><span style="font-family: Righteous; font-size: 12px;"><button class="btn btn-danger btn-sm" type="button">ROLE </button> ${role}</span></p>
-<p><span style="font-family: Righteous; font-size: 12px;"><button class="btn btn-success btn-sm" type="button"> DEGREE </button> ${degree}</span></p>
-<p style="text-align: left;"><span style="font-family: Righteous; font-size: 12px;"><span style="color: #000000;"><button class="btn btn-warning btn-sm" type="button">LOCATION</button></span> ${loc}</span></p>
+const sol = `<p><span style="font-family: Righteous; font-size: 12px;"><button class="btn btn-primary btn-sm" type="button">COMPANY</button></span> ${comp}</p>
+<p><span style="font-family: Righteous; font-size: 12px;"><button class="btn btn-danger btn-sm" type="button">ROLE </button></span> ${role}</p>
+<p><span style="font-family: Righteous; font-size: 12px;"><button class="btn btn-success btn-sm" type="button"> DEGREE </button></span> ${degree}</p>
+<p ><span style="font-family: Righteous; font-size: 12px;"><button class="btn btn-warning btn-sm" type="button">LOCATION</button></span> ${loc}</p>
 <p style="text-align: center;"><!--more Apply Now  ➠ --></p>
 <p>Are you looking for a ${title} For Freshers and Experienced Candidates? Here is the latest job for you.</p>
 
