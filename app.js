@@ -19,18 +19,18 @@ const sol = `<p><span style="font-family: Righteous; font-size: 12px;"><button c
 <p ><span style="font-family: Righteous; font-size: 12px;"><button class="btn btn-warning btn-sm" type="button">LOCATION</button></span> ${loc}</p>
 <p style="text-align: center;"><!--more Apply Now  ➠ --></p>
 <p> </p>
-<p>Are you looking for a Synchrony off campus Drive 2022 Senior Analyst For Freshers and Experienced Candidates? Here is the latest job for you.</p>
+<p>Are you looking for a ${title} For Freshers and Experienced Candidates? Here is the latest job for you.</p>
 <p> </p>
-<h2>How To Apply For Synchrony off campus Drive 2022 Senior Analyst</h2>
+<h2>How To Apply For ${title}</h2>
 <p> </p>
-<p>You can apply to those jobs or internships through the link below. We hope the above information has helped you use the Synchrony off campus Drive 2022  Senior Analyst.</p>
+<p>You can apply to those jobs or internships through the link below. We hope the above information has helped you use the ${title}</p>
 <p class="text-break"><img class="aligncenter wp-image-7566 size-full" src="https://sycobrain.com/wp-content/uploads/2022/03/2022cisco-2.png" alt="CISCO Software Engineer Jobs" width="500" height="200" /></p>
 <p style="text-align: center;"><strong>Registration Link</strong></p>
 <p style="text-align: center;"><strong>⇓</strong></p>
 <p><script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1874315412689682" crossorigin="anonymous"></script> <!-- super syco latest --> <ins class="adsbygoogle" style="display: block;" data-ad-client="ca-pub-1874315412689682" data-ad-slot="8371587063" data-ad-format="auto" data-full-width-responsive="true"></ins> <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script></p>
-<p style="text-align: center;">Apply Now- <u><a href="https://www.firstnaukri.com/careers/customised/landingpage/synchrony/index.html" target="_blank" rel="noopener">Click Here</a></u></p>
+<p style="text-align: center;">Apply Now- <u><a href="${links}" target="_blank" rel="noopener">Click Here</a></u></p>
 <p><script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1874315412689682" crossorigin="anonymous"></script> <!-- super syco latest --> <ins class="adsbygoogle" style="display: block;" data-ad-client="ca-pub-1874315412689682" data-ad-slot="8371587063" data-ad-format="auto" data-full-width-responsive="true"></ins> <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script></p>
