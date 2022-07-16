@@ -45,7 +45,7 @@ const sol = `<p><span style="font-family: Righteous; font-size: 12px;"><button c
 <p><script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1874315412689682" crossorigin="anonymous"></script> <!-- super syco latest --> <ins class="adsbygoogle" style="display: block;" data-ad-client="ca-pub-1874315412689682" data-ad-slot="8371587063" data-ad-format="auto" data-full-width-responsive="true"></ins> <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script></p>
-<p style="text-align: center;"><a class="btn btn-dark" role="button" href="${links}" target="_blank" rel="noopener">🔗JOB LINK <span style="color: #ffffff;">(${comp})</span></a></p>
+<p style="text-align: center;"><a class="btn btn-dark" role="button" href="${links}" target="_blank" rel="noopener">🔗APPLY NOW:<span style="color: #ffffff;">Click Here(${comp})</span></a></p>
 <p><script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1874315412689682" crossorigin="anonymous"></script> <!-- super syco latest --> <ins class="adsbygoogle" style="display: block;" data-ad-client="ca-pub-1874315412689682" data-ad-slot="8371587063" data-ad-format="auto" data-full-width-responsive="true"></ins> <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script></p>
