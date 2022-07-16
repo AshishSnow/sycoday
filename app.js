@@ -90,19 +90,82 @@ const sol = `<p><span style="font-family: Righteous; font-size: 12px;"><button c
 </div>
 </div>
 <p> </p>
-<h2>Interview Tips</h2>
+<table class="table table-striped table-bordered border-dark" style="width: 100%; height: 240px;">
+<thead class="table-success">
+<tr style="height: 40px;">
+<th style="width: 50%; text-align: right; height: 40px;" scope="col">JOBS BY</th>
+<th style="width: 50%; text-align: left; height: 40px;" scope="col">LOCATION </th>
+</tr>
+</thead>
+<tbody>
+<tr style="height: 30px;">
+<td style="width: 50%; text-align: center; height: 40px;"><a href="https://sycobrain.com/category/bangalore-jobs/">Bangalore</a></td>
+<td style="width: 50%; text-align: center; height: 40px;"><a href="https://sycobrain.com/category/chennai-jobs/">Chennai</a></td>
+</tr>
+<tr style="height: 30px;">
+<td style="width: 50%; text-align: center; height: 40px;"><a href="https://sycobrain.com/category/delhi-jobs/">Delhi</a></td>
+<td style="width: 50%; text-align: center; height: 40px;"><a href="https://sycobrain.com/category/hyderabad-jobs/">Hyderabad</a></td>
+</tr>
+<tr style="height: 30px;">
+<td style="width: 50%; text-align: center; height: 40px;"><a href="https://sycobrain.com/category/kolkata-jobs/">Kolkata</a></td>
+<td style="width: 50%; text-align: center; height: 40px;"><a href="https://sycobrain.com/category/gurgaon-jobs/">Gurugram</a></td>
+</tr>
+<tr style="height: 30px;">
+<td style="width: 50%; text-align: center; height: 40px;"><a href="https://sycobrain.com/category/mumbai-jobs/">Mumbai</a></td>
+<td style="width: 50%; text-align: center; height: 40px;"><a href="https://sycobrain.com/category/noida-jobs/">Noida</a></td>
+</tr>
+<tr style="height: 30px;">
+<td style="width: 50%; text-align: center; height: 40px;"><a href="https://sycobrain.com/category/pune-jobs/">Pune</a></td>
+<td style="width: 50%; text-align: center; height: 40px;"><a href="https://sycobrain.com/category/pune-jobs/">Work From Home</a></td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<table class="table table-striped table-bordered border-dark" style="width: 100%; height: 120px;">
+<thead class="table-warning">
+<tr>
+<th style="width: 33%; text-align: right;" scope="col"> </th>
+<th style="width: 33%; text-align: center;" scope="col">JOBS BY CATEGORY</th>
+<th style="width: 33%; text-align: left;" scope="col"> </th>
+</tr>
+</thead>
+<tbody>
+<tr style="height: 30px;">
+<td style="width: 33%; text-align: center;"><a href="https://sycobrain.com/category/ba/">BA</a></td>
+<td style="width: 33%; text-align: center;"><a href="https://sycobrain.com/category/be/">B.E</a></td>
+<td style="width: 33%; text-align: center;"><a href="https://sycobrain.com/category/bba/">BBA</a></td>
+</tr>
+<tr style="height: 30px;">
+<td style="width: 33%; text-align: center;"><a href="https://sycobrain.com/category/bca/">BCA</a></td>
+<td style="width: 33%; text-align: center;"><a href="https://sycobrain.com/category/bcom/">BCom</a></td>
+<td style="width: 33%; text-align: center;"><a href="https://sycobrain.com/category/bsc/">BSc</a></td>
+</tr>
+<tr style="height: 30px;">
+<td style="width: 33%; text-align: center;"><a href="https://sycobrain.com/category/btech/">BTech</a></td>
+<td style="width: 33.1191%; text-align: center;"><a href="https://sycobrain.com/category/govt/">Govt</a></td>
+<td style="width: 33%; text-align: center;"><a href="https://sycobrain.com/category/mba/">MBA</a></td>
+</tr>
+<tr style="height: 30px;">
+<td style="width: 33%; text-align: center;"><a href="https://sycobrain.com/category/mca/">MCA</a></td>
+<td style="width: 33.1191%; text-align: center;"><a href="https://sycobrain.com/category/msc/">MSC</a></td>
+<td style="width: 33%; text-align: center;"><a href="https://sycobrain.com/category/other/">Other</a></td>
+</tr>
+</tbody>
+</table>
+
+<h3>Interview Tips</h2>
 <p> </p>
 <p>Be confident, talk plainly and give your 100%. There is seriously no rocket science for clearing job interviews. They are like easy interviews, a conversation between you and the interviewer.</p>
 <p> </p>
-<h3>What are factors that play a crucial role in the Interview:-</h3>
+<h4>What are factors that play a crucial role in the Interview:-</h3>
 <p> </p>
 <p>Academics Achievements, Extracurricular activities, Projects and Social work or any proper assignment done or currently doing.</p>
 <p> </p>
-<h2>Resume Tips</h2>
+<h3>Resume Tips</h2>
 <p> </p>
 <p>Last but not least – Don’t lie in your resume. Having a page full of crappy specialities or lies is no good. Better to write what you know and past work experience. Never send resume in Docx file. Always send your resume in pdf file format.</p>
 <p> </p>
-<h2>About Sycobrain</h2>
+<h5>About Sycobrain</h2>
 <p> </p>
 <p>We are not associated with any company/agency/agent whose job or internship is posted on sycobrain.com. We are just an information provider for job &amp; internship openings. All Company names, logos, and brands are the Intellectual Property of their respective owners. All company, product, and service names used on this website are for identification purposes only. Sycobrain is an informative platform that provides technical and career growth assistance to students pursuing various fields such as B.Tech, Bsc, B.com etc. It includes information on upcoming off-campus hiring drives, available internships, and free course details at no cost.</p>
 <p> </p>
