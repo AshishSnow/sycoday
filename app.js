@@ -26,7 +26,7 @@ const sol = `<p><span style="font-family: Righteous; font-size: 12px;"><button c
 <p><span style="font-family: Righteous; font-size: 12px;"><button class="btn btn-warning btn-sm" type="button">LOCATION</button></span> <strong><span style="font-size: 14px;">${loc}</span></strong></p>
 <p style="text-align: center;"><!--more Apply Now ➠ --></p>
 <p> </p>
-<p>Are you looking for a Google Off Campus Drive for Freshers and Experienced Candidates? Here is the latest job for you.</p>
+<p>Are you looking for a ${title} for Freshers and Experienced Candidates? Here is the latest job for you.</p>
 <p> </p>
 <h2>${head1}</h2>
 <p> </p>
@@ -152,7 +152,7 @@ const sol = `<p><span style="font-family: Righteous; font-size: 12px;"><button c
 </tr>
 </tbody>
 </table>
-
+<p></p>
 <h3>Interview Tips</h2>
 <p> </p>
 <p>Be confident, talk plainly and give your 100%. There is seriously no rocket science for clearing job interviews. They are like easy interviews, a conversation between you and the interviewer.</p>
@@ -180,7 +180,7 @@ DEGREE: ${degree}
 
 LOCATION: ${loc}
 
-APPLY NOW: `
+Apply Now: `
 
    
 result.innerText = sol;
