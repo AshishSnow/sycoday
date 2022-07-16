@@ -35,18 +35,7 @@ const sol = `<p><span style="font-family: Righteous; font-size: 12px;"><button c
 <h2>${head2}</h2>
 <p> </p>
 <p>${para2}</p>
-<p> </p>
-<p style="text-align: center;"><strong><span style="background-color: #ff0000; color: #ffffff;"> Important </span></strong></p>
-<p> </p>
-<p> </p>
-<div class="container">
-<div class="row row-cols-2 row-cols-lg-4 g-2 g-lg-3">
-<div><a class="btn btn-outline-dark" role="button" href="https://sycobrain.com/" rel="preload"><img class="img-thumbnail aligncenter" src="https://sycobrain.com/wp-content/uploads/2022/07/home-1.jpg" alt="Home" width="121" height="121" /></a></div>
-<div><a class="btn btn-outline-warning" role="button" href="https://sycobrain.com/category/" rel="preload"><img class="img-thumbnail aligncenter" src="https://sycobrain.com/wp-content/uploads/2022/06/Free-course-3-1.jpg" alt="category" width="121" height="121" /></a></div>
-<div><a class="btn btn-outline-success" role="button" href="https://sycobrain.com/category/latest-jobs/" rel="preload"><img class="img-thumbnail aligncenter" src="https://sycobrain.com/wp-content/uploads/2022/06/Free-course-2.jpg" alt="Latest Jobs" width="121" height="121" /></a></div>
-<div><a class="btn btn-outline-danger" role="button" href="https://sycobrain.com/category/courses/" rel="preload"><img class="img-thumbnail aligncenter" src="https://sycobrain.com/wp-content/uploads/2022/06/Free-course-1.jpg" alt="FREE COURSES" width="121" height="121" /></a></div>
-</div>
-</div>
+
 <p> </p>
 <h2>How To Apply For ${title}</h2>
 <p> </p>
@@ -56,10 +45,21 @@ const sol = `<p><span style="font-family: Righteous; font-size: 12px;"><button c
 <p><script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1874315412689682" crossorigin="anonymous"></script> <!-- super syco latest --> <ins class="adsbygoogle" style="display: block;" data-ad-client="ca-pub-1874315412689682" data-ad-slot="8371587063" data-ad-format="auto" data-full-width-responsive="true"></ins> <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script></p>
-<p style="text-align: left;"><strong>Apply Link- <u><a href="${links}" target="_blank" rel="noopener">Click Here (${comp})</a></u></strong></p>
+<p style="text-align: center;"><a class="btn btn-dark" role="button" href="${links}" target="_blank" rel="noopener">🔗JOB LINK <span style="color: #ffffff;">(${comp})</span></a></p>
 <p><script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1874315412689682" crossorigin="anonymous"></script> <!-- super syco latest --> <ins class="adsbygoogle" style="display: block;" data-ad-client="ca-pub-1874315412689682" data-ad-slot="8371587063" data-ad-format="auto" data-full-width-responsive="true"></ins> <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script></p>
+<p> </p>
+<p style="text-align: center;"><strong><span style="background-color: #ff0000; color: #ffffff;"> Important </span></strong></p>
+<p> </p>
+<div class="container">
+<div class="row row-cols-2 row-cols-lg-4 g-2 g-lg-3">
+<div><a class="btn btn-outline-dark" role="button" href="https://sycobrain.com/" rel="preload"><img class="img-thumbnail aligncenter" src="https://sycobrain.com/wp-content/uploads/2022/07/home-1.jpg" alt="Home" width="121" height="121" /></a></div>
+<div><a class="btn btn-outline-warning" role="button" href="https://sycobrain.com/category/" rel="preload"><img class="img-thumbnail aligncenter" src="https://sycobrain.com/wp-content/uploads/2022/06/Free-course-3-1.jpg" alt="category" width="121" height="121" /></a></div>
+<div><a class="btn btn-outline-success" role="button" href="https://sycobrain.com/category/latest-jobs/" rel="preload"><img class="img-thumbnail aligncenter" src="https://sycobrain.com/wp-content/uploads/2022/06/Free-course-2.jpg" alt="Latest Jobs" width="121" height="121" /></a></div>
+<div><a class="btn btn-outline-danger" role="button" href="https://sycobrain.com/category/courses/" rel="preload"><img class="img-thumbnail aligncenter" src="https://sycobrain.com/wp-content/uploads/2022/06/Free-course-1.jpg" alt="FREE COURSES" width="121" height="121" /></a></div>
+</div>
+</div>
 <p> </p>
 <p style="text-align: center;"><strong><span style="background-color: #ccffcc;"><span style="color: #333333;"> </span><span style="color: #808080;"><span style="color: #333333;">Latest Jobs, Internships &amp; Courses</span> </span></span></strong></p>
 <p> </p>
