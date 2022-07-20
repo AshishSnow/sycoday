@@ -40,7 +40,7 @@ const sol = `<p><span style="font-family: Righteous; font-size: 12px;"><button c
 <h2>How To Apply For ${title}</h2>
 <p> </p>
 <p>You can apply to those jobs or internships through the link below. We hope the above information has helped you use the ${title}</p>
-<p class="text-break"><img class="aligncenter wp-image-10737 size-full" src="https://sycobrain.com/wp-content/uploads/2022/06/google-2.png" alt="Google Off Campus Drive for Freshers" width="500" height="200" /><span style="color: #000000; background-color: #ffff99;"><strong> Registration Link Of ${title} </strong></span></p>
+<p class="text-break"><img class="aligncenter wp-image-10737 size-full" src="https://sycobrain.com/wp-content/uploads/2022/06/google-2.png" alt="Google Off Campus Drive for Freshers" width="500" height="200" /><span style="color: #ffffff; background-color: #ff0000;"><strong> Registration Link Of ${title} </strong></span></p>
 <p style="text-align: center;"> </p>
 <p><script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1874315412689682" crossorigin="anonymous"></script> <!-- super syco latest --> <ins class="adsbygoogle" style="display: block;" data-ad-client="ca-pub-1874315412689682" data-ad-slot="8371587063" data-ad-format="auto" data-full-width-responsive="true"></ins> <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
@@ -50,7 +50,7 @@ const sol = `<p><span style="font-family: Righteous; font-size: 12px;"><button c
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script></p>
 <p> </p>
-<p style="text-align: center;"><strong><span style="background-color: #ff0000; color: #ffffff;"> Important </span></strong></p>
+<p style="text-align: center;"><strong>More </strong></p>
 <p> </p>
 <div class="container">
 <div class="row row-cols-2 row-cols-lg-4 g-2 g-lg-3">
