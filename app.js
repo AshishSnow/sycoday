@@ -164,8 +164,8 @@ const sol = `<p><span style="font-family: Righteous; font-size: 12px;"><button c
 <h3>Resume Tips</h2>
 
 <p>Last but not least – Don’t lie in your resume. Having a page full of crappy specialities or lies is no good. Better to write what you know and past work experience. Never send resume in Docx file. Always send your resume in pdf file format.</p>
-<p> </p>
-<h3>About Sycobrain</h2>
+
+<h3>About Sycobrain</h3>
 
 <p>We are not associated with any company/agency/agent whose job or internship is posted on sycobrain.com. We are just an information provider for job &amp; internship openings. All Company names, logos, and brands are the Intellectual Property of their respective owners. All company, product, and service names used on this website are for identification purposes only. Sycobrain is an informative platform that provides technical and career growth assistance to students pursuing various fields such as B.Tech, Bsc, B.com etc. It includes information on upcoming off-campus hiring drives, available internships, and free course details at no cost.</p>
 
@@ -183,6 +183,7 @@ LOCATION: ${loc}
 Apply Now: 
 
 
+
 ${comp}
 
 ${role}
@@ -191,6 +192,29 @@ ${degree}
 
 ${loc}
 
+
+Comment ‘Yes’ if you are interested in applying!
+
+Link in Bio and Telegram channel or Go to Google Search
+
+www.sycobrain.com
+
+Share with your friends and colleague🤝
+
+APPLY https://linktr.ee/sycobrain
+
+#${comp} #jobdrive #job2hire #sycoportal #jobs #jobsearch #JobHunting #jobseeker #jobseekers #jobinterview #JobOpportunity #latestjobvacancies #fresherjobs #indiajobs #itjobs #joboffer #jobopportunity #graduatejobs #jobhunting #jobs
+
+
+Comment ‘Yes’ if you are interested in applying!
+
+Link in Bio or Go to Google Search
+
+www.sycobrain.com
+
+Share with your friends and colleague🤝
+
+#${comp} #jobdrive #job2hire #sycoportal #jobs #jobsearch #JobHunting #jobseeker #jobseekers #jobinterview #JobOpportunity #latestjobvacancies #fresherjobs #indiajobs #itjobs #joboffer #jobopportunity #graduatejobs #jobhunting #jobs
 
 
 
