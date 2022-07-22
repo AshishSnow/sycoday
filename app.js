@@ -40,7 +40,9 @@ const sol = `<p><span style="font-family: Righteous; font-size: 12px;"><button c
 <h2>How To Apply For ${title}</h2>
 
 <p>You can apply to those jobs or internships through the link below. We hope the above information has helped you use the ${title}</p>
-<p class="text-break"><img class="aligncenter wp-image-10737 size-full" src="https://sycobrain.com/wp-content/uploads/2022/06/google-2.png" alt="Google Off Campus Drive for Freshers" width="500" height="200" /><span style="color: #ffffff; background-color: #ff0000;"><strong> Registration Link Of ${title} </strong></span></p>
+<p class="text-break"><img class="aligncenter wp-image-10737 size-full" src="https://sycobrain.com/wp-content/uploads/2022/06/google-2.png" alt="Google Off Campus Drive for Freshers" width="500" height="200" </p>
+
+<h5><strong> Registration Link Of ${title} </strong></span></h5>
 
 <p><script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1874315412689682" crossorigin="anonymous"></script> <!-- super syco latest --> <ins class="adsbygoogle" style="display: block;" data-ad-client="ca-pub-1874315412689682" data-ad-slot="8371587063" data-ad-format="auto" data-full-width-responsive="true"></ins> <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
@@ -49,8 +51,10 @@ const sol = `<p><span style="font-family: Righteous; font-size: 12px;"><button c
 <p><script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1874315412689682" crossorigin="anonymous"></script> <!-- super syco latest --> <ins class="adsbygoogle" style="display: block;" data-ad-client="ca-pub-1874315412689682" data-ad-slot="8371587063" data-ad-format="auto" data-full-width-responsive="true"></ins> <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script></p>
+<p></p>
 
 <p style="text-align: center;"><strong>More </strong></p>
+<p></p>
 
 <div class="container">
 <div class="row row-cols-2 row-cols-lg-4 g-2 g-lg-3">
@@ -60,13 +64,15 @@ const sol = `<p><span style="font-family: Righteous; font-size: 12px;"><button c
 <div><a class="btn btn-outline-danger" role="button" href="https://sycobrain.com/category/courses/" rel="preload"><img class="img-thumbnail aligncenter" src="https://sycobrain.com/wp-content/uploads/2022/06/Free-course-1.jpg" alt="FREE COURSES" width="121" height="121" /></a></div>
 </div>
 </div>
-
+<p></p>
 <p style="text-align: center;"><strong><span style="background-color: #ccffcc;"><span style="color: #333333;"> </span><span style="color: #808080;"><span style="color: #333333;">Latest Jobs, Internships &amp; Courses</span> </span></span></strong></p>
+<p></p>
 
 <p>[pt_view id="68efa53dt1"]</p>
+<p></p>
 
 <h3 style="text-align: center;">Join Our Groups For Latest Updates</h3>
-
+<p></p>
 <div class="container">
 <div class="row row-cols-3 row-cols-lg-6 g-2 g-lg-3">
 <div class="col">
